@@ -1,0 +1,54 @@
+body {
+  background-color: #282C34;
+  overflow-x: hidden;
+}
+
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 28px;
+    font-variant: small-caps;
+    text-align: center;
+    color: azure;
+}
+
+.header {
+    text-align: center;
+}
+
+#myInput {
+    width: 50%;
+    padding: 6px;
+    margin: 5px 2px 2px 15px;
+}
+
+#addBtn {
+    width: 5%;
+    padding: 7px;
+    background-color: rgb(10, 129, 129);
+    border: 0px solid aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #f4f4f4;
+    font-size: 16px;
+}
+
+ul {
+    list-style: none;
+    transform: translate(19%);
+}
+li {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #f4f4f4;
+    font-size: 16px;
+    font-variant: normal;
+    font-style: italic;
+    text-transform: capitalize;
+        
+}
+
+.remove {
+    background-color: rgb(10, 129, 129);
+    border: 0px solid aqua;
+    margin: 0px 10px 0px 15px;
+    color: #f4f4f4;
+
+}
